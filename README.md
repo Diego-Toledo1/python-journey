@@ -11,8 +11,8 @@ Este espacio sirve como mi cuaderno de bocetos digital, un lugar para practicar,
 
 Aquí puedes navegar directamente a las diferentes etapas de mi aprendizaje. La estructura está organizada por temas.
 
-* [📁 01 - Basicos](https://github.com/Diego-Toledo1/python-journey/tree/main/01_basic) - Print, Types, Cast, Variable, Input, Exercises
-* [📁 02 - ]() - 
+* [📁 01 - Basic](https://github.com/Diego-Toledo1/python-journey/tree/main/01_basic) - Print, Types, Cast, Variable, Input, Exercises
+* [📁 02 - Flow Control](https://github.com/Diego-Toledo1/python-journey/tree/main/02_flow_control) - Condicional if
 * [📁 03 - ]() - 
 * [📁 04 - ]() - 
 * [📁 05 - ]() - 
