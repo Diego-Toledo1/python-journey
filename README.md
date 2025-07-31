@@ -11,7 +11,7 @@ Este espacio sirve como mi cuaderno de bocetos digital, un lugar para practicar,
 
 Aquí puedes navegar directamente a las diferentes etapas de mi aprendizaje. La estructura está organizada por temas.
 
-* [📁 01 - ]() - 
+* [📁 01 - ](https://github.com/Diego-Toledo1/python-journey/tree/main/01_basic) - Print, Types, Cast, Variable, Input, Exercises
 * [📁 02 - ]() - 
 * [📁 03 - ]() - 
 * [📁 04 - ]() - 
