@@ -85,3 +85,38 @@ if not es_fin_de_semana:
     print("Orale we que hay que chambear")
 else:
     print("GOOO DIAMANTE EN LOL")
+
+
+# Un consejo que me da midudev es siempre simplificar el condicional
+
+# Tambien como se vio en el archivo cast, los numeros actuan como True y False numero > y < a 0 es True y Numero 0 es False
+
+numero = 4
+if numero:
+    print("entra en la condicion")
+
+numero2 = 0
+if numero2:
+    print("no entra en la condicion porque es false")
+print("Look")
+
+# igual con las cadenas de texto
+
+nombresito = "Manuelas" #True
+if nombresito:
+    print("La cadena de texto no esta vacia")
+
+nombresito2 = "" #False
+if nombresito2:
+    print("La cadena si esta vacia por ende no imprime nada")
+print("cadena vacia")
+
+
+print("\n La condicion ternaria")
+#Es una forma concisa de un if-else en una linea de codigo
+# [codigo si cumple la condicion] if [condicion] else [codigo si no cumple]
+
+edad = 18
+
+mensaje = "Es mayor de edad" if edad >18 else "Es menor de edad"
+print(mensaje)
